@@ -1,6 +1,8 @@
 # Netflix-Analysis
 In this project, I will be performing data analysis tasks on a Netflix movie and TV show dataset using the Python Pandas library.
 
+Dataset: https://www.kaggle.com/datasets/shivamb/netflix-shows
+
 Key takeaways:
 - General Python Pandas Knowledge
 - Using groupby method and aggregating values
